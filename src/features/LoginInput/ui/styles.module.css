@@ -1,0 +1,14 @@
+.email {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.title {
+  font-weight: 500;
+  font-size: 40px;
+}
+.btn {
+  width: 100%;
+  margin-top: 40px;
+}

@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+}
+.checkbox {
+  width: 20px;
+  height: 20px;
+  color: purple;
+  border-radius: 2px;
+}
+.image {
+  margin-left: 28px;
+}
+.cardContent {
+  margin-left: 47px;
+}
+.description {
+  margin-left: 168px;
+}
+.skills {
+  margin-left: 62px;
+}

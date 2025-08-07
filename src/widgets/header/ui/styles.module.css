@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #e8e8e8;
+  height: 72px;
+  padding-left: 20px;
+}
+.img {
+  background-color: #f8f8f8;
+}

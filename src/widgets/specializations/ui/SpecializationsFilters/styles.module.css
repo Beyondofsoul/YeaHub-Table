@@ -1,0 +1,8 @@
+.specializationsInfo {
+  display: flex;
+  gap: 91px;
+}
+.checkbox {
+  width: 20px;
+  height: 20px;
+}
